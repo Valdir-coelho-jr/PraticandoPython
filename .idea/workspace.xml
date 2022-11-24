@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18ae8071-7b65-483b-93d3-5ea83f37ea8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote1/modulo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote2/modulo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18ae8071-7b65-483b-93d3-5ea83f37ea8b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
