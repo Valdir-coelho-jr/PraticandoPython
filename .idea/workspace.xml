@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18ae8071-7b65-483b-93d3-5ea83f37ea8b" name="Changes" comment="" />
+    <list default="true" id="18ae8071-7b65-483b-93d3-5ea83f37ea8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Curso Python com Luiz Otávio Miranda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso Python com Luiz Otávio Miranda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursopython/aula52_ITERTOOLS/aula52_exemplo.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursopython/aula52_ITERTOOLS/aula52_exemplo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursopython/aula61_CRIANDO_ESCREVENDO_APAGANDO_ARQUIVO/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cursopython/aula61_CRIANDO_ESCREVENDO_APAGANDO_ARQUIVO/abc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursopython/aula63_FUNCOES_DECORADORAS_E_DECORADORES/decora.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursopython/aula63_FUNCOES_DECORADORAS_E_DECORADORES/decora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursopython/aula63_FUNCOES_DECORADORAS_E_DECORADORES/exemplo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursopython/aula63_FUNCOES_DECORADORAS_E_DECORADORES/exemplo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursopython/aula64_PROBLEMAS_DE_PARÂMETROS/exemplo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursopython/aula64_PROBLEMAS_DE_PARÂMETROS/exemplo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO/descricao.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO/descricao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO/resolucao.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO/resolucao.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,17 +38,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/valdi/Documents/Estudos/Curso Python com Luiz Otávio Miranda&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/valdi/Documents/Estudos/Curso Python com Luiz Otávio Miranda"
   }
-}</component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="exemplo3_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.resolucao">
+    <configuration name="aula52_exemplo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python com Luiz Otávio Miranda" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula52_ITERTOOLS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula52_ITERTOOLS/aula52_exemplo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calculos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python com Luiz Otávio Miranda" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula59_CRIANDO_SEU_PRÓPRIO_MÓDULO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula59_CRIANDO_SEU_PRÓPRIO_MÓDULO/calculos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="descricao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python com Luiz Otávio Miranda" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO/descricao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso Python com Luiz Otávio Miranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula61_CRIANDO_ESCREVENDO_APAGANDO_ARQUIVO/exemplo3_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula61_CRIANDO_ESCREVENDO_APAGANDO_ARQUIVO/exemplo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ler_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="resolucao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso Python com Luiz Otávio Miranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,74 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula61_CRIANDO_ESCREVENDO_APAGANDO_ARQUIVO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula61_CRIANDO_ESCREVENDO_APAGANDO_ARQUIVO/ler_json.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Curso Python com Luiz Otávio Miranda" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="modulo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Curso Python com Luiz Otávio Miranda" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote1/modulo1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="modulo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Curso Python com Luiz Otávio Miranda" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula62_CAMINHOS_DE_MÓDULOS/pacote2/modulo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursopython/aula65_EXERCÍCIO_UNDO_E_REDO/resolucao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.modulo2" />
-        <item itemvalue="Python.modulo1" />
-        <item itemvalue="Python.ler_json" />
-        <item itemvalue="Python.exemplo3_json" />
+        <item itemvalue="Python.resolucao" />
+        <item itemvalue="Python.descricao" />
+        <item itemvalue="Python.aula52_exemplo" />
+        <item itemvalue="Python.calculos" />
+        <item itemvalue="Python.exemplo" />
       </list>
     </recent_temporary>
   </component>
